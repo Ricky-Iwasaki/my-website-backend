@@ -11,7 +11,7 @@
 
 I want a remote job.
 
-![cat_in_rain](cat_in_rain.jpeg)
+![cat_in_rain](images/cat_in_rain.jpeg)
 
 ## Quick "About me"
 
